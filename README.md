@@ -30,11 +30,6 @@ _Want to skip straight to the demo? [Check out the live site here](https://yummy
 - Github - version control
 - [Netlify](https://netlify.com/) - hosting & continuous deployment
 
-
-**Highlights**
-
-**Challenges**
-
 **Credits**
 
 - [freeCodeCamp Gatsby Static Site Generator Tutorial](https://youtu.be/RaTpreA0v7Q) from the Gatsby Full Course with John Smilga
